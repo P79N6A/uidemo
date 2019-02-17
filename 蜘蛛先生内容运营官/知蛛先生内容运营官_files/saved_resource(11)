@@ -1,0 +1,1 @@
+KISSY.add("tb-mod/tb-footer-only/0.0.1/index",["node"],function(n,t){function o(){this.init.apply(this,arguments)}var e=t("node");return o.prototype={init:function(n,t){KISSY.use("kg/tb-footer/1.0.0/index",function(t,o){new o({root:e.one(n)[0],delay:!0}).render()})}},o});
